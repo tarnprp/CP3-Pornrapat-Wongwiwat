@@ -1,0 +1,5 @@
+print("Distance?")
+distance = int(input())
+print("Time?")
+time = int(input())
+print(int(distance/time),"km/h")
